@@ -15,4 +15,8 @@ Users will be presented with a menu:
 5. Remove Existing Patron
 6. List All Patrons
 7. Exit
-<p>Subclasses will be called, with results displayed to the user by this class.
+
+Subclasses will be called, with results displayed to the user by this class.
+  
+# Inputs
+The normalpatrons.txt and invalidpatrons.txt files can be used to test valid and invalid Patron files imported under menu option 1.
