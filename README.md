@@ -1,7 +1,7 @@
-Steven Pride
-CEN 3024 - Software Development I
-09/13/25
-LibraryApp
+Steven Pride<br>
+CEN 3024 - Software Development I<br>
+09/13/25<br>
+LibraryApp<br>
 
 # Assignment Description
 Console application for the Library Management System to allow librarians to manage patrons.
@@ -15,4 +15,4 @@ Users will be presented with a menu:
 5. Remove Existing Patron
 6. List All Patrons
 7. Exit
-Subclasses will be called, with results displayed to the user by this class.
+<p>Subclasses will be called, with results displayed to the user by this class.
